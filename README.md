@@ -19,3 +19,8 @@ If you only search for a seed project for your React + Redux + Spotify app, here
 ## Contribute
 
 I am open for feedback.
+
+## Demo
+![1](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.43.40.png)
+![2](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.43.44.png)
+![3](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.44.06.png)
