@@ -19,15 +19,14 @@ window.spotifyApi = new SpotifyWebApi({
 const store = configureStore()
 
 const history = syncHistoryWithStore(browserHistory, store)
-alert(process.env.PUBLIC_URL + '/')
-console.log(process.env.PUBLIC_URL + '/')
+
 ReactDOM.render(
   <Provider store={store}>
     <Router history={history}>
       <Route path={'/'} component={App}>
         <IndexRoute component={Stream}/>
-        <Route path={process.env.PUBLIC_URL + '/'} component={Stream}/>
-        <Route path={process.env.PUBLIC_URL + '/callback'} component={Callback}/>
+        <Route path={'/'} component={Stream}/>
+        <Route path={'/callback'} component={Callback}/>
       </Route>
     </Router>
   </Provider>,
