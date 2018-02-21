@@ -19,7 +19,7 @@ window.spotifyApi = new SpotifyWebApi({
 const store = configureStore()
 
 const history = syncHistoryWithStore(browserHistory, store)
-
+alert(process.env.PUBLIC_URL + '/');
 ReactDOM.render(
   <Provider store={store}>
     <Router history={history}>
