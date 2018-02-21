@@ -25,8 +25,8 @@ ReactDOM.render(
     <Router history={history}>
       <Route path={process.env.PUBLIC_URL + '/'} component={App}>
         <IndexRoute component={Stream}/>
-        <Route path="/" component={Stream}/>
-        <Route path="/callback" component={Callback}/>
+        <Route path={process.env.PUBLIC_URL + '/'} component={Stream}/>
+        <Route path={process.env.PUBLIC_URL + '/callback'} component={Callback}/>
       </Route>
     </Router>
   </Provider>,
