@@ -21,8 +21,7 @@ If you only search for a seed project for your React + Redux + Spotify app, here
 I am open for feedback.
 
 ## Demo
-<p align="center">
+
   <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.43.40.png" alt="react redux spotify" width="300"/>
   <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.43.44.png" alt="react redux spotify" width="300"/>
   <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.44.06.png" alt="react redux spotify" width="300"/>
-</p>
