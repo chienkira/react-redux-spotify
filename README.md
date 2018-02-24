@@ -13,14 +13,16 @@ If you only search for a seed project for your React + Redux + Spotify app, here
 ## Get Started
 
 1. git clone
-3. npm install
-4. npm start
+2. npm install
+3. npm start
 
 ## Contribute
 
 I am open for feedback.
 
 ## Demo
-![1](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.43.40.png)
-![2](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.43.44.png)
-![3](https://raw.githubusercontent.com/chienkira/react-redux-spotify/master/demo_images/Screen%20Shot%200030-02-18%20at%200.44.06.png)
+<p align="center">
+  <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.43.40.png" alt="react redux spotify" width="300"/>
+  <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.43.44.png" alt="react redux spotify" width="300"/>
+  <img src="demo_images/Screen%20Shot%200030-02-18%20at%200.44.06.png" alt="react redux spotify" width="300"/>
+</p>
