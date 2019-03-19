@@ -1,5 +1,7 @@
 # react-redux-spotify
 
+*Please check newer repository at here: https://github.com/chienkira/musyc*
+
 This repository should give you an entry point for a React + Redux + Spotify boilerplate project with multiple possible extensions.
 
 If you only search for a seed project for your React + Redux + Spotify app, here is it!
